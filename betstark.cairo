@@ -1,5 +1,5 @@
 contract BettingContract:
-    field betAmount : felt = 10000000000000000000  # 10 ETH in wei
+    field betAmount : felt = 10000000000000000000  # 10 ETH in gewi
     field team1Address : felt = 0  # Address of the first participant
     field team2Address : felt = 0  # Address of the second participant
     field team1Bet : felt = 0  # Amount bet by the first participant
