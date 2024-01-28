@@ -1,6 +1,6 @@
 const starknet = require('starknet.js');
 
-// Replace these values with your actual private key and contract code
+// Replace these values with your actual private key and contract codes
 const privateKey = 'YOUR_PRIVATE_KEY';
 const contractCode = 'YOUR_CONTRACT_CODE';
 
